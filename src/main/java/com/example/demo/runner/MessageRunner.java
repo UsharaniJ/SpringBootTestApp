@@ -11,6 +11,7 @@ public class MessageRunner implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		int a =10;
+		int b = 20;
 		try
 		{
 			log.info("STRATED");
